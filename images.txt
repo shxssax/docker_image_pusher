@@ -2,5 +2,6 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:最新
-# 指定架构
+# 指定建筑
 --platform=linux/arm64 xiaoyaliu/alist
+Python:alpine3.19
