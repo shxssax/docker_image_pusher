@@ -4,4 +4,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:最新
 # 指定建筑
 --platform=linux/arm64 xiaoyaliu/alist
-Python:alpine3.19
+蟒蛇：Alpine3.19
+Cooder1/wewe-rss-sqlite:latest
